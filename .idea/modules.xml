@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Chapter1_Design_Puzzle_Action_Game_Character_Weapons/Chapter1_Design_Puzzle_Action_Game_Character_Weapons.iml" filepath="$PROJECT_DIR$/Chapter1_Design_Puzzle_Action_Game_Character_Weapons/Chapter1_Design_Puzzle_Action_Game_Character_Weapons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter2_Weather_Data/Chapter2_Weather_Data.iml" filepath="$PROJECT_DIR$/Chapter2_Weather_Data/Chapter2_Weather_Data.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter_4_Factory_Method/Chapter_4_Factory_Method.iml" filepath="$PROJECT_DIR$/Chapter_4_Factory_Method/Chapter_4_Factory_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_2_Observer/Chapter_2_Observer.iml" filepath="$PROJECT_DIR$/Chapter_2_Observer/Chapter_2_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_4_Abstract_Factory/Chapter_4_Abstract_Factory.iml" filepath="$PROJECT_DIR$/Chapter_4_Abstract_Factory/Chapter_4_Abstract_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_4_Factory/Chapter_4_Factory.iml" filepath="$PROJECT_DIR$/Chapter_4_Factory/Chapter_4_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_5_Singleton/Chapter_5_Singleton.iml" filepath="$PROJECT_DIR$/Chapter_5_Singleton/Chapter_5_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_6_Command/Chapter_6_Command.iml" filepath="$PROJECT_DIR$/Chapter_6_Command/Chapter_6_Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_7_Adapter/Chapter_7_Adapter.iml" filepath="$PROJECT_DIR$/Chapter_7_Adapter/Chapter_7_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_7_Facade/Chapter_7_Facade.iml" filepath="$PROJECT_DIR$/Chapter_7_Facade/Chapter_7_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_7_Facade/Chapter_8_TemplateMethod.iml" filepath="$PROJECT_DIR$/Chapter_7_Facade/Chapter_8_TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_8_Template_Method/Chapter_8_Template_Method.iml" filepath="$PROJECT_DIR$/Chapter_8_Template_Method/Chapter_8_Template_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Head First Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/Head First Design Patterns.iml" />
     </modules>
   </component>
